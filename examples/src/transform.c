@@ -80,5 +80,3 @@ int main(int argc, char const *argv[]) {
 
   return 0;
 }
-
-// TO COMPILE : gcc -lgsl -lgslcblas -lm 
