@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O3 -DNDEBUG  -shared  -o mosquitto_payload_modification.so CMakeFiles/mosquitto_payload_modification.dir/mosquitto_payload_modification.c.o   -L/home/nconsalvi/Devel/c-cnc-master21/mosquitto-2.0.14 
